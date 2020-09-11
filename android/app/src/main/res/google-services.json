@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253053351189",
+    "firebase_url": "https://todo-fa3e3.firebaseio.com",
+    "project_id": "todo-fa3e3",
+    "storage_bucket": "todo-fa3e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253053351189:android:47cf056cd200069480251c",
+        "android_client_info": {
+          "package_name": "com.nbit.taskmaneger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253053351189-7u8fhm3lkgrv378l23lbqm5chrbct1oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbbySLYAiGklstlQtri3gQuBcqfkCC29o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253053351189-7u8fhm3lkgrv378l23lbqm5chrbct1oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253053351189-8gorjfdm7n36bmu7ig1lu2r3nngbqoo1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nbit.taskmaneger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
